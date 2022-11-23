@@ -6,3 +6,7 @@ print(bar)
 
 print(bar)
 # adding new comments
+# adding new comments
+
+
+# more things
