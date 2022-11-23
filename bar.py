@@ -4,4 +4,5 @@ for i in name:
     bar += ord(i)
 print(bar)
 
+print(bar)
 # adding new comments
